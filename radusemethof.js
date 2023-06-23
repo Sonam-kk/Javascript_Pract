@@ -9,6 +9,6 @@ const sum = (arr) => {
 };
 console.log(sum(arr1));
 
-//reduce method
+//reduce methods
 const outputReduce = arr.reduce((acc, curr) => acc + curr, 0);
 console.log(outputReduce);
